@@ -9,7 +9,7 @@ Now I work Jaya.Tech in the financial industry as specialist in Payment process.
 
 ![GitHub followers](https://img.shields.io/github/followers/FrankJob?label=Followers&logo=github&logoColor=white&style=flat-square)&nbsp;&nbsp;&nbsp;
 [![gmail Badge](https://img.shields.io/badge/-francisco@conexaoportugal.com-0078D4?style=flat-square&logo=gmail&logoColor=red&link=mailto:francisco@conexaoportugal.com)](mailto:francisco@conexaoportugal.com)&nbsp;&nbsp;&nbsp;
-[![LinkedIn Badge](https://img.shields.io/badge/-Francisco-Jr-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscosjr/)](https://www.linkedin.com/in/franciscosjr/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Francisco%20Jr-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscosjr/)](https://www.linkedin.com/in/franciscosjr/)
 
 Passionate about technologies, travel, food and dogs!
 
