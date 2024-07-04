@@ -1,13 +1,20 @@
 # Francisco Jr
 
-Computer Engineer
+Architect, System Engineer & Developer
+
+I have been working with computers since I was 16 years old. I started doing support for my friends, soon making it my profession. I earned my second degree in electronics, then graduated in computer networking, and finally postgraduate in analysis, project, and systems management.
+I have worked in several companies over the last 20 years, such as Atos Origin, Accenture, BRQ, Stefanini, and PUC's Tecgraf Institute with Petrobras as a customer, where I spent 15 years working in the Exploration and Production (E&P) area.
+I worked in one of the company's main systems, Siplex, where I worked on over 22 systems and countless tasks, including infrastructure, back-end development, front-end development, and project coordination.
+Now I work Jaya.Tech in the financial industry as specialist in Payment process.
 
 ![GitHub followers](https://img.shields.io/github/followers/FrankJob?label=Followers&logo=github&logoColor=white&style=flat-square)&nbsp;&nbsp;&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-francisco@conexaoportugal.com-0078D4?style=flat-square&logo=microsoft&logoColor=white&link=mailto:francisco@conexaoportugal.com)](mailto:francisco@conexaoportugal.com)&nbsp;&nbsp;&nbsp;
+[![gmail Badge](https://img.shields.io/badge/-francisco@conexaoportugal.com-0078D4?style=flat-square&logo=microsoft&logoColor=white&link=mailto:francisco@conexaoportugal.com)](mailto:francisco@conexaoportugal.com)&nbsp;&nbsp;&nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/-FrankJob-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscosjr/)](https://www.linkedin.com/in/franciscosjr/)
 
 Passionate about technologies, travel, food and dogs!
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
+          
 Below you can find some technologies that I have been using.
 
 <br>
