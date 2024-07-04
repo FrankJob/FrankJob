@@ -1,3 +1,21 @@
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-devicon-plain"></i>
+
+<!--  for devicon plain version -->
+<i class="devicon-devicon-plain"></i>
+
+<!--  for devicon plain version with wordmark -->
+<i class="devicon-devicon-plain-wordmark"></i>
+
+<!--  for devicon plain version colored with devicon main color -->
+<i class="devicon-devicon-plain colored"></i>
+
+<!--  for devicon plain version with wordmark colored with devicon main color -->
+<i class="devicon-devicon-plain-wordmark colored"></i>
+
 # Francisco Jr
 
 Computer Engineer
@@ -17,7 +35,7 @@ Below you can find some technologies that I have been using.
     <img style="background-color:white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" title=".NET Core" width="32" height="32" />
     <img style="background-color:white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" title=".NET" width="32" height="32" />  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="32" height="32"/>
-    Working in integration with C# projects:
+    <p>Working in integration with C# projects:</p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="32" height="32"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" title="Java" width="32" height="32"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="32" height="32"/>
