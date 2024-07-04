@@ -2,9 +2,9 @@
 
 **Architect, System Engineer & Developer**
 
-With over 20 years of experience in the IT industry, I have honed my skills across multiple domains. My journey began at the age of 16, providing computer support to friends, which soon evolved into a professional career. I hold a degree in electronics, a degree in computer networking, and a postgraduate degree in analysis, project, and systems management.
+With over 21 years of experience in the IT industry, I have honed my skills across multiple domains. My journey began at the age of 16, providing computer support to friends, which soon evolved into a professional career. I hold a degree in electronics, a degree in computer networking, and a postgraduate degree in analysis, project, and systems management.
 
-Throughout my career, I have contributed to esteemed organizations such as Atos Origin, Accenture, BRQ, Stefanini, and PUC's Tecgraf Institute, where I collaborated with Petrobras in the Exploration and Production (E&P) sector for 15 years. During this period, I played a pivotal role in the Siplex system, overseeing more than 22 systems and executing diverse tasks, including infrastructure management, back-end and front-end development, and project coordination.
+Throughout my career, I have contributed to esteemed organizations such as Atos Origin, Accenture, BRQ, Stefanini, and PUC's Tecgraf Institute, where I collaborated with Petrobras in the Exploration and Production (E&P) sector for 17 years. During this period, I played a pivotal role in the Siplex system, overseeing more than 22 systems and executing diverse tasks, including infrastructure management, back-end and front-end development, and project coordination.
 
 Currently, I am employed at Jaya.Tech, specializing in payment processes within the financial industry. My extensive background and diverse skill set enable me to deliver innovative solutions and drive success in complex projects.
 
@@ -219,7 +219,10 @@ Currently, I am employed at Jaya.Tech, specializing in payment processes within 
     </td>
   </tr>
 </table>
-
+<br>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=frankjob&count_private=true&theme=dark&show_icons=true" alt="Francisco Jr GitHub Stats"/> 
+</p>
 <!--
 #### Programming Languages & Frameworks
 <table>
