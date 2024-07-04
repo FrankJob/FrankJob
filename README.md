@@ -1,27 +1,9 @@
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
-<!-- in your body -->
-<i class="devicon-devicon-plain"></i>
-
-<!--  for devicon plain version -->
-<i class="devicon-devicon-plain"></i>
-
-<!--  for devicon plain version with wordmark -->
-<i class="devicon-devicon-plain-wordmark"></i>
-
-<!--  for devicon plain version colored with devicon main color -->
-<i class="devicon-devicon-plain colored"></i>
-
-<!--  for devicon plain version with wordmark colored with devicon main color -->
-<i class="devicon-devicon-plain-wordmark colored"></i>
-
 # Francisco Jr
 
 Computer Engineer
 
 ![GitHub followers](https://img.shields.io/github/followers/FrankJob?label=Followers&logo=github&logoColor=white&style=flat-square)&nbsp;&nbsp;&nbsp;
-[![Google Badge](https://img.shields.io/badge/-francisco@conexaoportugal.com-0078D4?style=flat-square&logo=microsoft&logoColor=white&link=mailto:francisco@conexaoportugal.com)](mailto:francisco@conexaoportugal.com)&nbsp;&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-francisco@conexaoportugal.com-0078D4?style=flat-square&logo=microsoft&logoColor=white&link=mailto:francisco@conexaoportugal.com)](mailto:francisco@conexaoportugal.com)&nbsp;&nbsp;&nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/-FrankJob-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscosjr/)](https://www.linkedin.com/in/franciscosjr/)
 
 Passionate about technologies, travel, food and dogs!
@@ -31,6 +13,53 @@ Below you can find some technologies that I have been using.
 <br>
 <p style="margin:0;padding:0">Programming languages:</p>
 <div style="inline-block;margin:0;padding:0">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="32" height="32"/>          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" alt=".Net Framework" title="C#" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".Net Core" title="C#" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="Javascript" width="32" height="32"/>          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" width="32" height="32"/>        
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" title="Angular JS" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" title="Azure" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" width="32" height="32"/>    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="GitHub" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="GitHub Actions" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" title="gRPC" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" title="Jenkins" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" title="Jira" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" title="jQuery" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original-wordmark.svg" title="Kibana" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" title="Kubernets" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="SQL Server" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nhibernate/nhibernate-plain-wordmark.svg" title="nHibernate" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original-wordmark.svg" title="Nuget" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres SQL" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" title="RabbitMQ" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="React" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" title="Slack" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg" title="Sonar" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" title="Splunk" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" title="Swagger" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="Typescript" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" title="Visual Basic" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" width="32" height="32"/>          
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" title="DBeaver" width="32" height="32"/>
+
+          
+
+            
+          
+          
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="32" height="32"/>
     <img style="background-color:white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" title=".NET Core" width="32" height="32" />
     <img style="background-color:white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" title=".NET" width="32" height="32" />  
