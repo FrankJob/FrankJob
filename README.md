@@ -219,10 +219,12 @@ Currently, I am employed at Jaya.Tech, specializing in payment processes within 
     </td>
   </tr>
 </table>
+<!--
 <br>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=frankjob&count_private=true&theme=dark&show_icons=true" alt="Francisco Jr GitHub Stats"/> 
 </p>
+-->
 <!--
 #### Programming Languages & Frameworks
 <table>
