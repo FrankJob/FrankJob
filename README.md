@@ -80,10 +80,10 @@ Currently, I am employed at Jaya.Tech, specializing in payment processes within 
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" width="32" height="32"/></td>
     <td>Docker</td>
   </tr>
-  <tr>
+  <!--<tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" title="Kubernetes" width="32" height="32"/></td>
     <td>Kubernetes</td>
-  </tr>
+  </tr>-->
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="32" height="32"/></td>
     <td>Git</td>
